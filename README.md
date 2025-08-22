@@ -2,6 +2,10 @@
 
 ###
 
+<img align="right" height="120" src="https://i.imgflip.com/a3ss9r.gif"  />
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
   <img width="12" />
@@ -35,17 +39,9 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/a3ss9r.gif"  />
-
-###
-
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nsx270&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nsx270&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=nsx270&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=true" height="200" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nsx270&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" height="200" alt="languages graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/nsx270/nsx270/output/snake.svg" alt="Snake animation" />
 
 ###
