@@ -39,6 +39,10 @@
 
 ###
 
+<h5 align="left">Estudante de engenharia de software e desenvolvedor de software.<br>Buscando sempre aprender novas linguagens e ferramentas.<br>Tenho facilidade em trabalhar em equipe e busco valorizar a<br>comunicação, a clareza, e a construção de um código limpo.</h5>
+
+###
+
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=nsx270&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=true" height="200" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nsx270&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" height="200" alt="languages graph"  />
